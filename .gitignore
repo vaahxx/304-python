@@ -1,4 +1,4 @@
-env/
-proj/.vscode
-proj/proj/__pycache__
-proj/db.sqlite3
+env
+projeto/.vscode
+projeto/projeto/__pycache__
+projeto/db.sqlite3
